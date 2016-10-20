@@ -1,4 +1,4 @@
-# CS-301-Pre-Fix-Bool-Eval
+# Pre-Fix-Boolean-Evaluator
 prefix boolean expression evaluator. 
 
 input is nonspaced prefix boolean expression containing the characters `t f & | !`
